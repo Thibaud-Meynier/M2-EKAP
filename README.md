@@ -4,5 +4,5 @@ Git-hub crée pour le cours de ML sous python
 
 challenge kaggle choisis avec Yasmina 
 
-Real or Not? NLP with Disaster Tweets
-https://www.kaggle.com/c/nlp-getting-started
+House prices, advanced regression:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=train.csv
